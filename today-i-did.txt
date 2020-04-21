@@ -1,0 +1,6 @@
+21/04/2020
+1. Installed npm globally
+2. Used npm to install vue/cli
+3. Used vue/cli to create new project - countdown-timer
+4. Installed Vetur extension for VSCode - For Vue development
+5. Created TimerInput component
