@@ -4,3 +4,7 @@
 3. Used vue/cli to create new project - countdown-timer
 4. Installed Vetur extension for VSCode - For Vue development
 5. Created TimerInput component
+
+28/04/2020
+1. Created component to display timer
+2. Got timer input to console log inputs on button click
